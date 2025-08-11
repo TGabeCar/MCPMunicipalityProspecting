@@ -12,7 +12,6 @@
       "Bash(touch:*)",
       "Bash(cat:*)",
       "Bash(ruff check:*)",
-      "WebFetch(domain:docs.anthropic.com)",
       "Bash(xcopy:*)",
       "Bash(robocopy:*)",
       "Bash(cp:*)",
@@ -21,16 +20,10 @@
       "Bash(rmdir:*)",
       "Bash(dotnet clean:*)",
       "Bash(dotnet restore:*)",
-      "WebFetch(domain:www.philschmid.de)",
       "Bash(dir)",
       "Bash(copy:*)",
       "Bash(rm:*)",
-      "WebFetch(*)",
-      "Bash(jq:*)",
-      "WebFetch(domain:*.gov)",
-      "WebFetch(domain:*.org)", 
-      "WebFetch(domain:*.com)",
-      "WebFetch(domain:*)"
+      "WebFetch"
     ],
     "deny": []
   }
